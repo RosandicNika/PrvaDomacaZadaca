@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrvaDomacaZadaca</string>
+    <string name="pkb">Prvi kompleksni broj</string>
+    <string name="dkb">Drugi kompleksni broj</string>
+    <string name="buttonadd">+</string>
+    <string name="buttonsub">-</string>
+    <string name="buttonmul">x</string>
+    <string name="buttondiv">%</string>
+    <string name="result">Result:</string>
+
+</resources>
